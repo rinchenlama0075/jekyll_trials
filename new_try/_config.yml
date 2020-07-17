@@ -1,3 +1,5 @@
+url: rinchenlama0075.github.io
+baseurl: /jekyll_trials
 collections:
   authors:
     output: true
