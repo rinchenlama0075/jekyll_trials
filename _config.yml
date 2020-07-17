@@ -1,5 +1,5 @@
-url: "rinchenlama0075.github.io"
-baseurl: "/jekyll_trials/new_try"
+url: "rinchenlama0075.github.io/jekyll_trials"
+baseurl: "/"
 collections:
   authors:
     output: true
