@@ -1,8 +1,8 @@
 - name: Home
-  link: /
+  link: /jekyll_trials
 - name: About
-  link: /about.html
+  link: /jekyll_trials/about.html
 - name: Blog
-  link: /blog.html
+  link: jekyll_trials/blog.html
 - name: Staff
-  link: /staff.html
+  link: jekyll_trials/staff.html
